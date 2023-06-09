@@ -96,7 +96,7 @@ public class StrategyPattern {
         cart.addItem(b);
 
         cart.pay(new Kakaopay("cyyoun", "1234"));
-        cart.pay(new Naverpay("윤채영", "111", "12/31"));
+        cart.pay(new Naverpay("cyy", "111", "12/31"));
 
 
     }
