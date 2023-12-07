@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class GitTest {
+public class GitTest {
+    String repository;
+
+    public GitTest() {
+        this.repository = "테스트";
+    }
 }
